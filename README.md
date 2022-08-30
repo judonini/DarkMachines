@@ -1,8 +1,7 @@
 # DarkMachines
 Code used for tests on DarkMachines samples:
 * Test parsing.ipynb: code to parse DarkMachine format and save events corresponding to a given selection
-* TestAutoEncoder_pytorch-hack_chan1.ipynb: run simple AutoEncoder on samples extracted from chan1 data
-* Significance.ipynb: calculate significance increase vs cut on AE output
+* Explore-data-samples-DDP-v2: merge selections and create high-level variables (dijet masses, HT, etc)
 
 ## About DarkMachines
 
